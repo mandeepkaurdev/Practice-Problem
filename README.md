@@ -2,7 +2,7 @@
 
 ## Challenge
 
-/*broken event listener.*/
+Broken Event Listener.
 
 ## Instructions
 
